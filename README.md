@@ -7,7 +7,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-**Project Description
+## Project Description
 
 This project is a simple Todo List application developed using React and TypeScript. Users can add new tasks by entering the task name and completion time and view the tasks they have added in the list. There is also a feature to delete completed tasks. The project has been developed using React Hooks and TypeScript typings and aims to facilitate task management thanks to its user-friendly interface.
 
