@@ -25,5 +25,4 @@ function TodoItem({ task, deleteTask }: PropsType) {
     </div>
   );
 }
-
 export default TodoItem;
