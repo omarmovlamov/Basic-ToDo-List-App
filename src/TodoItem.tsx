@@ -26,5 +26,4 @@ function TodoItem({ task, deleteTask }: PropsType) {
   );
 }
 
-
 export default TodoItem;
